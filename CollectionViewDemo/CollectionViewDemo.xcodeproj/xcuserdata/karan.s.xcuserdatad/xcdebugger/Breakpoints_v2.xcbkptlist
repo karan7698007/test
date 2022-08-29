@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BBF67588-B94C-427E-99AD-05A0829010FC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "577E0023-E121-4D5A-9594-988246688BE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewDemo/MainCollectionCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "MainCollectionCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "577E0023-E121-4D5A-9594-988246688BE9 - 8e6671c2916067bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewDemo.MainCollectionCell.collectionIndex.getter : Swift.Int"
+                  moduleName = "CollectionViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karan.s/Desktop/CollectionViewDemo/CollectionViewDemo/MainCollectionCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "577E0023-E121-4D5A-9594-988246688BE9 - a7360e5cda373f88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewDemo.MainCollectionCell.collectionIndex.setter : Swift.Int"
+                  moduleName = "CollectionViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karan.s/Desktop/CollectionViewDemo/CollectionViewDemo/MainCollectionCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "577E0023-E121-4D5A-9594-988246688BE9 - 5cbf880af10001b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewDemo.MainCollectionCell.collectionIndex.modify : Swift.Int"
+                  moduleName = "CollectionViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karan.s/Desktop/CollectionViewDemo/CollectionViewDemo/MainCollectionCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "577E0023-E121-4D5A-9594-988246688BE9 - 1e49782f0faa78d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewDemo.MainCollectionCell.collectionIndex.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CollectionViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karan.s/Desktop/CollectionViewDemo/CollectionViewDemo/MainCollectionCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "577E0023-E121-4D5A-9594-988246688BE9 - f5501f79d2128211"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewDemo.MainCollectionCell.init(frame: __C.CGRect) -&gt; CollectionViewDemo.MainCollectionCell"
+                  moduleName = "CollectionViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karan.s/Desktop/CollectionViewDemo/CollectionViewDemo/MainCollectionCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "577E0023-E121-4D5A-9594-988246688BE9 - a6483eddabcaa193"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewDemo.MainCollectionCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CollectionViewDemo.MainCollectionCell&gt;"
+                  moduleName = "CollectionViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karan.s/Desktop/CollectionViewDemo/CollectionViewDemo/MainCollectionCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F53A2A6-B773-42B5-84B4-6CFFEB1DD5DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewDemo/MainCollectionCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
